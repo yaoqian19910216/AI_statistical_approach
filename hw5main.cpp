@@ -2,8 +2,8 @@
 //  main.cpp
 //  HW_5
 //
-//  Created by Ning Ma on 5/18/13.
-//  Copyright (c) 2013 Ning Ma. All rights reserved.
+//  Created by Qian Yao on 5/18/13.
+//  Copyright (c) 2013 Qian Yao. All rights reserved.
 //
 
 #include <iostream>
